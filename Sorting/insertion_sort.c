@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "simple_linked_list.c"
+#include "../simple_linked_list.c"
 
 void insertion_sort(SimpleLinkedList *L){
     int i, j;

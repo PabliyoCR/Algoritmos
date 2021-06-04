@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "simple_linked_list.c"
+#include "../Structures/simple_linked_list.c"
 #include <math.h>
 
 
